@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = wanjinchi@hotmail.com
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	email = wanjinchi@hormail.com
+	name = Kelly Chi
